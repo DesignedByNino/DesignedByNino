@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DesignedByNino
+- 👋 Hi, I’m Nino
 - 👀 I’m interested in communicating fresh ideas through design, photography & programming
 - 🌱 I’m currently learning front-end frameworks, time-manegemnt & yoga
 - 🪐 I’m looking to collaborate on portfolio and e-commece design & development projects
